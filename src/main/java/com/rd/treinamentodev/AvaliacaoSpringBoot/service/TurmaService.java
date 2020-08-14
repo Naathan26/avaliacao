@@ -35,8 +35,6 @@ public class TurmaService {
         //TODO implementar a conversão da lista de objetos de TurmaEntity para TurmaDTO e retornar a listDTO preenchida
 
 
-
-
         return listDTO;
     }
 }
